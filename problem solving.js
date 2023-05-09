@@ -11,3 +11,12 @@ function minutestoSeconds(minutes){
 }
 
 alert(minutestoSeconds(minutes))
+
+//converting year into days using function//
+
+function yearsintodays(){
+var yearsintodays=prompt("enter your year to convert to days")
+var days=yearsintodays*365
+console.log(days)    
+}
+yearsintodays()
