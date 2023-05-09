@@ -21,7 +21,7 @@ console.log(days)
 }
 yearsintodays()
 
-//converting year into days using function//
+//incriment using functions//
  
 var a=prompt("enter the input")
 function incrimentnum(){
