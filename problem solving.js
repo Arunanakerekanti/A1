@@ -20,3 +20,13 @@ var days=yearsintodays*365
 console.log(days)    
 }
 yearsintodays()
+
+//converting year into days using function//
+ 
+var a=prompt("enter the input")
+function incrimentnum(){
+    for(let i=0;i<10;i++){
+        console.log(i)
+    }
+}
+incrimentnum()
