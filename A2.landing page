@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+img{
+position: absolute;
+top: 80;
+left: 600px;
+background-image: url(white\ image.jpg);
+    }
+ .a{
+        position: absolute;
+        bottom: 250px;
+        left: 120px;
+        font-weight: bold;
+        background-image: url(white\ image.jpg);
+    }
+
+</style>
+<body>
+    <div>
+    <div id="one1" style="background-color: rgb(156, 226, 226);">
+        <img src="overviewimg.jpg" style="height: 500px; width: 690px;" alt="Overview">
+    
+        <div class="a">
+        <p>Brand :OnePlus </p>
+           <p> Model Name:OnePlus Nord CE 3 Lite 5G</p>
+           <p> Network Service Provider:Unlocked for All Carriers</p>
+           <p> OS:OxygenOS</p>
+           <p> Cellular Technology:5G, 4G LTE
+            </p></div>
+        </div>   
+      </div>
+     
+</body>
+</html>
