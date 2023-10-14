@@ -1,0 +1,27 @@
+// take two arguements and return their sum//
+let a=add(2,3);
+function add (a,b){
+    return a+b;
+}
+console.log(a);
+
+ function numbers(a,b){
+    return a+b
+ }
+ console.log(numbers(1,5))
+
+//Convering minutes into seconds using function//
+var minutes =prompt("enter the minute to convert into seconds")
+function mintoseconds(minutes){
+    return minutes*60;
+}
+console.log(mintoseconds(minutes))
+
+//converting year into days using function//
+function yearsintodays(){
+var yearsintodays=prompt("enter your year to convert to days")
+var days=yearsintodays*365
+return yearsintodays; 
+}
+console.log(days);
+
